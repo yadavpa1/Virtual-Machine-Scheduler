@@ -1,0 +1,3 @@
+[submodule "scheduler-ui"]
+	path = scheduler-ui
+	url = https://gitlab.eng.vmware.com/vmware-scheduler/scheduler-ui.git

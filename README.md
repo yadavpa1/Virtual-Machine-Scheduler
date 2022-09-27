@@ -4,4 +4,4 @@
 - Built a UI portal to demo the algorithm that also allows performing CRUD operations on an inventory of objects like datacenter, cluster, host, and a virtual machine with RBAC support.
 - Solution Design and Approach
 
-  ![scheduler-logic](/scheduler-logic.png)
+  ![scheduler-logic](https://github.com/yadavpa1/Virtual-Machine-Scheduler/blob/47debddd5aff5e579fe3bfdca15aceacd1ef30f6/scheduler_logic.png)

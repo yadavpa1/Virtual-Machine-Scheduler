@@ -5,3 +5,6 @@
 - Solution Design and Approach
 
   ![scheduler-logic](https://github.com/yadavpa1/Virtual-Machine-Scheduler/blob/47debddd5aff5e579fe3bfdca15aceacd1ef30f6/scheduler_logic.png)
+  
+- VM Migration is implemented to consolidate VMs into a smaller number of hosts, leading to better host utilization, which in turn reduces power consumption, as after consolidation hosts hosting no VMs can be shutdown. The UI portal displays the Power On/Off state of these hosts.
+
